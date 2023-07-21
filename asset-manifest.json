@@ -1,0 +1,26 @@
+{
+  "files": {
+    "static/css/0.chunk.css": "/wpassignment/wp-content/themes/somu/static/css/0.chunk.css",
+    "static/js/0.chunk.js": "/wpassignment/wp-content/themes/somu/static/js/0.chunk.js",
+    "static/css/0.chunk.css.map": "/wpassignment/wp-content/themes/somu/static/css/0.chunk.css.map",
+    "static/js/0.chunk.js.map": "/wpassignment/wp-content/themes/somu/static/js/0.chunk.js.map",
+    "main.css": "/wpassignment/wp-content/themes/somu/static/css/main.chunk.css",
+    "main.js": "/wpassignment/wp-content/themes/somu/static/js/main.chunk.js",
+    "main.css.map": "/wpassignment/wp-content/themes/somu/static/css/main.chunk.css.map",
+    "main.js.map": "/wpassignment/wp-content/themes/somu/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wpassignment/wp-content/themes/somu/static/js/bundle.js",
+    "runtime-main.js.map": "/wpassignment/wp-content/themes/somu/static/js/bundle.js.map",
+    "index.php": "/wpassignment/wp-content/themes/somu/index.php",
+    "static/media/Ads-Men.jpg": "/wpassignment/wp-content/themes/somu/static/media/Ads-Men.5e265d29.jpg",
+    "static/media/Ads-Women.jpg": "/wpassignment/wp-content/themes/somu/static/media/Ads-Women.b7dfdf68.jpg",
+    "static/media/Adv-Kids.jpg": "/wpassignment/wp-content/themes/somu/static/media/Adv-Kids.0b028aba.jpg",
+    "static/media/slide-A.jpg": "/wpassignment/wp-content/themes/somu/static/media/slide-A.3f734e7a.jpg"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/css/0.chunk.css",
+    "static/js/0.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
