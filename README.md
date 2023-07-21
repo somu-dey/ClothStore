@@ -52,5 +52,16 @@ Steps to deploy this project
 
 5.Setup domain name and site address of your choice.
 
+## Languages Used
 
+1.HTML
 
+2.CSS
+
+3.JavaSript
+
+4.PHP
+
+5.ReactJs
+
+6.NodeJs
